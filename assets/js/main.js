@@ -17,7 +17,7 @@ function randomize(){
             translateX(${translateX}%, ${translateY}%)
             rotate(${rotate}deg)`;
     })
-    console.log(divs.length, "randomize!")
+    console.log(divs.length, "randomize!");
 }
 
 randomize();
